@@ -8,6 +8,7 @@ Sample dataset images:
 Detection Results:
 ![image](https://github.com/BiswarupMukherjee1/Out-Of-Stock-Detection-Deep-Learning/assets/89087014/7ed5d22d-f7df-4597-b37e-c872b6c97c6f)
 
-Final Model has a mAP of 98.3% and Detection time of 0.42 seconds
+Final Model has a mAP of 98.3% and Detection time of 0.42 seconds.
+Inference:
 27.5% reduction in number of parameters, 19.8% decrease in detection time and 2% increase
 in mAP is observed for final model compared to base YOLOv5 model
